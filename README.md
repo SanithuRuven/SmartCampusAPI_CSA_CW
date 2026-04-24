@@ -1,3 +1,11 @@
+Student Details
+
+    Name: Sanithu Ruven Gunasena
+    UOW ID: W2121301
+    IIT ID: 20241102
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 API Design Overview
 
 The Smart Campus Management API is a REST-based system that enables tracking and management of environmental parameters within university premises. The system offers a standardized data structure that can be used to connect campus infrastructure and IoT devices along with telemetry data.
